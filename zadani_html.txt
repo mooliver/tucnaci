@@ -1,8 +1,0 @@
-Zadání:
-3. Vytvořte CSS soubor, který bude pro všechny vzniklé strany stejný:
-	c. Rozložení Stránky:
-		Upravte šířku a výšku záhlaví, zápatí a obsahu stránky.
-		Změňte zarovnání prvků na stránce (vlevo, vpravo, střed).
-4. Ověřte si, jestli máte stránky validní.
-5. Vše bude vloženo na GitHub
-Bonus: Zprovozněte GitHubPages, odkaz vložte do popisu projektu na GitHubu.
